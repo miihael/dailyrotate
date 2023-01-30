@@ -1,2 +1,6 @@
-github.com/kjk/dailyrotate v0.0.0-20190904003340-aea00da60637 h1:JwJ07TcCdRhp4xqOIdyo4UQC3YepJJCDVxUDB+Xh3Ss=
-github.com/kjk/dailyrotate v0.0.0-20190904003340-aea00da60637/go.mod h1:GlATynXImhhlO7PVhSfyy2om08eqY7uBC2OBa/yQLa4=
+github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
+github.com/miihael/dailyrotate v0.0.0-20230130133214-e8982ad242e3 h1:jC2gTjM8SLOlsMwjWJ92rxpm8oNg2CyK7qI9c6U/dpk=
+github.com/miihael/dailyrotate v0.0.0-20230130133214-e8982ad242e3/go.mod h1:IFHojvQIDfLzDtQBDhkb8nXGAwMiEaHo8PJZWzvkA/k=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/stretchr/testify v1.4.0 h1:2E4SXV/wtOkTonXsotYi4li6zVWxYlZuYNCXe9XRJyk=
+gopkg.in/yaml.v2 v2.2.2 h1:ZCJp+EgiOT7lHqUV2J862kp8Qj64Jo6az82+3Td9dZw=
